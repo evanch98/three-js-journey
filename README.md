@@ -13,7 +13,7 @@ I will be updating this project as I progress through the course.
 ### How to Use
 1. Clone the repository:
 ```sh
-git clone
+git clone https://github.com/evanch98/three-js-journey.git
 ```
 2. Navigate to a lesson folder:
 ```sh
